@@ -17,7 +17,7 @@ pip install verlat
 ```python
 from verlat import latest_version
 
-release = latest_version("verlat")
+release = latest_release("verlat")
 
 print(release.version)
 ```
