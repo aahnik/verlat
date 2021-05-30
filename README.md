@@ -15,7 +15,7 @@ pip install verlat
 ## Usage
 
 ```python
-from verlat import latest_version
+from verlat import latest_release
 
 release = latest_release("verlat")
 
