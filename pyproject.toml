@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "verlat"
-version = "0.1.0.post0"
+version = "0.1.0.post1"
 description = "Get info about the latest release of a package on PyPI."
 authors = ["aahnik <daw@aahnik.dev>"]
 license = "MIT"
